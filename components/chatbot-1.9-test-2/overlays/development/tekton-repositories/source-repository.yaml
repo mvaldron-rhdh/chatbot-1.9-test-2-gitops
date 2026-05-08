@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: chatbot-1.9-test-2-repository
+spec:
+  url: https://github.com/mvaldron-rhdh/chatbot-1.9-test-2
